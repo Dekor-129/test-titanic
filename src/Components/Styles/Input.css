@@ -1,0 +1,30 @@
+
+.btn {
+	border: none;
+	border-radius:10px;
+	color: white;
+	height: 37px;
+	width: 75px;
+    cursor: pointer;
+    margin-right: 3px;
+    margin-left: 3px;
+}
+
+.btn-find {
+    background-color: #32CD32;
+}
+
+.btn-clear {
+    background-color: #DC143C;
+}
+
+input {
+	padding:10px;
+	border-radius:10px;
+	width: 400px;
+}
+
+.input-block {
+	margin: 30px 0;
+	width: 600px
+}
